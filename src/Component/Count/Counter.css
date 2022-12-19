@@ -1,0 +1,33 @@
+.counter{
+    display: flex;
+  
+}
+
+h1{
+    font-size: 60px;
+    width: 30px;
+    height: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 80px;
+}
+
+.button1{
+background-color: fuchsia;
+width: 70px;
+height: 70px;
+border-radius: 10px;
+color: white;
+font-size: 30px;
+margin-right:10px ;
+margin-top: 30px;
+}
+
+.button2{
+background-color: aqua;
+border-radius: 10px;
+width: 70px;
+height: 70px;
+color: white;
+font-size: 30px;
+margin-top: 30px;
+}
